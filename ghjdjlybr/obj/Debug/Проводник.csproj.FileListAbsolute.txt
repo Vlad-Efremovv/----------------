@@ -37,3 +37,25 @@ C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\
 C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Edit.g.cs
 C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Edit.baml
 C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\App.baml
+P:\----------------\ghjdjlybr\obj\Debug\Проводник.csproj.AssemblyReference.cache
+P:\----------------\ghjdjlybr\obj\Debug\Add.g.cs
+P:\----------------\ghjdjlybr\obj\Debug\Edit.g.cs
+P:\----------------\ghjdjlybr\obj\Debug\MainWindow.g.cs
+P:\----------------\ghjdjlybr\obj\Debug\Menu.g.cs
+P:\----------------\ghjdjlybr\obj\Debug\App.g.cs
+P:\----------------\ghjdjlybr\obj\Debug\ghjdjlybr_MarkupCompile.cache
+P:\----------------\ghjdjlybr\obj\Debug\ghjdjlybr_MarkupCompile.lref
+P:\----------------\ghjdjlybr\obj\Debug\ghjdjlybr.exe
+P:\----------------\ghjdjlybr\obj\Debug\ghjdjlybr.pdb
+P:\----------------\ghjdjlybr\bin\Debug\ghjdjlybr.exe.config
+P:\----------------\ghjdjlybr\bin\Debug\ghjdjlybr.exe
+P:\----------------\ghjdjlybr\bin\Debug\ghjdjlybr.pdb
+P:\----------------\ghjdjlybr\obj\Debug\App.baml
+P:\----------------\ghjdjlybr\obj\Debug\Add.baml
+P:\----------------\ghjdjlybr\obj\Debug\Edit.baml
+P:\----------------\ghjdjlybr\obj\Debug\MainWindow.baml
+P:\----------------\ghjdjlybr\obj\Debug\Menu.baml
+P:\----------------\ghjdjlybr\obj\Debug\ghjdjlybr.g.resources
+P:\----------------\ghjdjlybr\obj\Debug\ghjdjlybr.Properties.Resources.resources
+P:\----------------\ghjdjlybr\obj\Debug\Проводник.csproj.GenerateResource.cache
+P:\----------------\ghjdjlybr\obj\Debug\Проводник.csproj.CoreCompileInputs.cache

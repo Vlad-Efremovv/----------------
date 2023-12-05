@@ -32,6 +32,7 @@ namespace ghjdjlybr
     public partial class Menu : Page
     {
         Pach pach = new Pach(); //путь к файлу
+
         public Menu()
         {
             InitializeComponent();
@@ -94,8 +95,11 @@ namespace ghjdjlybr
         private void OnTreeViewSelectedItemChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
             textBox.Text = ((e.NewValue as TreeViewItem).Tag as FileSystemInfo).FullName; // вывод пути выделенного обьекта для пользователя
-            
-            pach.PachFullName = textBox.Text; // сохранения пути 
+
+            //pach.PachFillName = ((e.NewValue as TreeViewItem).Tag as FileSystemInfo).FullName; // сохранения пути 
+
+            //pach.RoutedEventArgs = e ;
+                       
         }
 
         /// <summary>
