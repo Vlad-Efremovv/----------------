@@ -1,0 +1,29 @@
+﻿<Window x:Class="ghjdjlybr.Edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ghjdjlybr"
+        mc:Ignorable="d"
+                Height="200" Width="450" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="10,10,10,10">
+                <TextBlock Text="Старое имя файла:  " Style="{Binding textBlockStyle}" FontFamily="Comic Sans MS"/>
+                <TextBox Name="oldNameFile" MinWidth="250" IsReadOnly="True" Style="{Binding textBoxStyle}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="13,10,10,10">
+                <TextBlock Text="Новое имя файла:  " Style="{Binding textBlockStyle}" FontFamily="Comic Sans MS"/>
+                <TextBox Name="newNameFile" MinWidth="250" Style="{Binding textBoxStyle}"/>
+            </StackPanel>
+        </StackPanel>
+
+        <Button x:Name="save" Click="save_Click" Content="Сохранить" Grid.Row="3" MaxHeight="30" MaxWidth="100" Margin="330,0,20,0" FontFamily="Comic Sans MS"/>
+    </Grid>
+</Window>

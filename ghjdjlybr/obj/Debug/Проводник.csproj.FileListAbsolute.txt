@@ -1,0 +1,39 @@
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\ghjdjlybr.exe.config
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\ghjdjlybr.exe
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\ghjdjlybr.pdb
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\Проводник.csproj.AssemblyReference.cache
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\MainWindow.g.cs
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\Menu.g.cs
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\App.g.cs
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\ghjdjlybr_MarkupCompile.cache
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\ghjdjlybr_MarkupCompile.lref
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\MainWindow.baml
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\Menu.baml
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\ghjdjlybr.g.resources
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\ghjdjlybr.Properties.Resources.resources
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\Проводник.csproj.GenerateResource.cache
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\Проводник.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\ghjdjlybr.exe
+C:\Users\vlade\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\ghjdjlybr.pdb
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\bin\Debug\ghjdjlybr.exe.config
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\bin\Debug\ghjdjlybr.exe
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\bin\Debug\ghjdjlybr.pdb
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Проводник.csproj.AssemblyReference.cache
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\MainWindow.g.cs
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Menu.g.cs
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\App.g.cs
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\ghjdjlybr_MarkupCompile.cache
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\ghjdjlybr_MarkupCompile.lref
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\MainWindow.baml
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Menu.baml
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\ghjdjlybr.g.resources
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\ghjdjlybr.Properties.Resources.resources
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Проводник.csproj.GenerateResource.cache
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Проводник.csproj.CoreCompileInputs.cache
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\ghjdjlybr.exe
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\ghjdjlybr.pdb
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Add.g.cs
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Add.baml
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Edit.g.cs
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\Edit.baml
+C:\Users\vlade\OneDrive\Рабочий стол\Лучший проводник\ghjdjlybr\obj\Debug\App.baml

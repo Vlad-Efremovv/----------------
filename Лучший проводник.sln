@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Проводник", "ghjdjlybr\Проводник.csproj", "{5686E04C-E98F-4554-8461-9B66F2AB5994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5686E04C-E98F-4554-8461-9B66F2AB5994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5686E04C-E98F-4554-8461-9B66F2AB5994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5686E04C-E98F-4554-8461-9B66F2AB5994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5686E04C-E98F-4554-8461-9B66F2AB5994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56481C44-8DEB-4E95-A720-576D0A775FB7}
+	EndGlobalSection
+EndGlobal

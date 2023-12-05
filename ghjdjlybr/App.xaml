@@ -1,0 +1,21 @@
+﻿<Application x:Class="ghjdjlybr.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ghjdjlybr"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <Style x:Key="textBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+            <Setter Property="Background" Value="LightGray" />
+        </Style>
+
+        <Style x:Key="textBoxStyle" TargetType="TextBox">
+            <Setter Property="Background" Value="LightGray" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+        </Style>
+
+    </Application.Resources>
+</Application>
