@@ -99,6 +99,7 @@ namespace ghjdjlybr
             //pach.PachFillName = ((e.NewValue as TreeViewItem).Tag as FileSystemInfo).FullName; // сохранения пути 
 
             //pach.RoutedEventArgs = e ;
+            pach.routedPropertyChangedEventArgs = e;
                        
         }
 

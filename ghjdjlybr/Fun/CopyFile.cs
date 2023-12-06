@@ -12,31 +12,6 @@ namespace ghjdjlybr.Fun
     {
         public CopyFile(ref Pach pach)
         {
-            for (int i = pach.PachFillName.Length - 1; i >= 0; i--)
-            {
-                if (pach.PachFillName[i] == '.')
-                {
-                    MessageBox.Show("нашел точку");
-
-                    char[] copyFileName = new char[i + 15];
-
-                    string copyIndex = pach.CopyIndex + "-копия-";
-
-                    for (int j = copyFileName.Length; j < i; j++)
-                    {
-                        if (i <=j )
-                        {
-                            copyFileName[j] = pach.PachFillName[i];
-                        }
-                        else
-                        {
-                            //copyIndex[]
-                        }
-                    }
-
-                }
-            }
-
             try
             {
                 File.Copy(pach.PachFillName, pach.PachFillName + "-копия-" + pach.CopyIndex); // копирование файла

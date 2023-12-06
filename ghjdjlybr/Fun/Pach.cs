@@ -9,12 +9,9 @@ namespace ghjdjlybr
 {
     public class Pach
     {
-        public string PachFillName {  get; set; } //имена файлов 
+        public string PachFillName { get; set; } //имена файлов 
         public int CopyIndex { get; set; } //индексы копирвоания файлов
 
-        public EventArgs eventArgs { get; set; } = new EventArgs();
-        public RoutedEventArgs RoutedEventArgs { get; set; }
-
-        public class RoutedPropertyChangedEventArgs<T> : System.Windows.RoutedEventArgs { }
+        public RoutedPropertyChangedEventArgs<object> routedPropertyChangedEventArgs {get; set; }
     }
 }
